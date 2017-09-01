@@ -23,7 +23,7 @@ void setup() {
   amp.input(in);
   ellipseMode(CENTER);
   textMode(CENTER);
-  m = new Movie(this, "test3.mov");
+  m = new Movie(this, "test.mov");
   m.loop();
 }
 

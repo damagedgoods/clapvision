@@ -1,3 +1,3 @@
 # Clapvision (work in progress)
 
-Video player whose speed is controlled clapping your hands
+Video player where the speed is controlled by clapping your hands
